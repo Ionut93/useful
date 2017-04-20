@@ -1,0 +1,33 @@
+<resources>
+	<dimen name="dialog_elevation">24dp</dimen>
+	<dimen name="picker_elevation">24dp</dimen>
+	
+	<dimen name="nav_drawer_elevation">16dp</dimen>
+	<dimen name="right_drawer_elevation">16dp</dimen>
+	<dimen name="modal_bottom_sheet_elevation">16dp</dimen>
+	
+	<dimen name="fab_pressed_elevation">12dp</dimen>
+	<dimen name="sub_menu_elevation">9dp</dimen> <!-- +1 dp for each sub menu -->
+	
+	<dimen name="bottom_navigation_bar_elevation">8dp</dimen>
+	<dimen name="menu_elevation">8dp</dimen>
+	<dimen name="card_picked_elevation">8dp</dimen>
+	<dimen name="raised_pressed_button_elevation">8dp</dimen>
+	
+	<dimen name="fab_resting_elevation">6dp</dimen>
+	<dimen name="snackbar_elevation">6dp</dimen>
+	
+	<dimen name="appbar_elevation">4dp</dimen>
+	
+	<dimen name="refresh_indicator_elevation">3dp</dimen>
+	<dimen name="quick_entry_elevation">3dp</dimen>
+	<dimen name="search_bar_elevation">3dp</dimen>
+	
+	<dimen name="card_resting_elevation">2dp</dimen>
+	<dimen name="raised_button_resting_elevation">2dp</dimen>
+	<dimen name="quick_entry_resting_elevation">2dp</dimen>
+	<dimen name="search_bar_resting_elevation">2dp</dimen>
+	
+	<dimen name="switch_elevation">1dp</dimen>
+	
+</resources>
